@@ -1,0 +1,6 @@
+body {
+    background-image: ("Bild.png")
+    background-repeat: no-repeat;
+    position: center;
+    background-size: cover;
+}
